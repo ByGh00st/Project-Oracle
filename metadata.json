@@ -1,0 +1,7 @@
+{
+  "name": "Project Oracle",
+  "description": "Yapay zeka destekli, gerçek zamanlı güvenlik kamerası analiz ve gözetim sistemi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
