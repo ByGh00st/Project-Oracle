@@ -1,5 +1,6 @@
 # Project Oracle 👁️
 
+
 **Yapay Zeka Destekli Yeni Nesil Gözetim ve Güvenlik Analiz Sistemi**
 
 Project Oracle, güvenlik kamerası akışlarını gerçek zamanlı olarak analiz eden, potansiyel tehditleri belirleyen ve operatöre anlık durumsal farkındalık sağlayan, React ve Google Gemini API tabanlı gelişmiş bir web uygulamasıdır.
@@ -7,6 +8,8 @@ Project Oracle, güvenlik kamerası akışlarını gerçek zamanlı olarak anali
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Tech](https://img.shields.io/badge/AI-Gemini_2.5_Flash-blue)
 ![Style](https://img.shields.io/badge/UI-Cyberpunk-purple)
+<img src="https://img.shields.io/badge/System-By_Ghost-black?style=for-the-badge" alt="Architected by ByGhost" />
+
 
 ## 🚀 Proje Hakkında
 
@@ -57,4 +60,9 @@ Proje, tarayıcı tabanlı bir ortamda çalışmak üzere tasarlanmıştır.
 Bu proje bir kavram kanıtı (Proof of Concept) ve eğitim amaçlı geliştirilmiştir. Gerçek bir güvenlik sistemi olarak kullanılması durumunda, kişisel verilerin korunması (KVKK/GDPR) ve kamera izleme yasalarına uyumluluk kullanıcının sorumluluğundadır.
 
 ---
-*Developed for the Future of Security.*
+*Developed Byghost *
+<a href="https://byghost.tr" target="_blank" rel="noopener" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/Official_Site-byghost.tr-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="byghost.tr Official Website" />
+</a>
+<p style="color: #666; font-size: 12px; margin-top: 10px;">
+
